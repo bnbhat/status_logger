@@ -1,0 +1,7 @@
+<launch>
+    <!-- Node under test -->
+    <node name="status_logger" pkg="your_package" type="status_logger.py" />
+
+    <!-- The test -->
+    <test test-name="status_logger_test" pkg="your_package" type="status_logger_test.py" />
+</launch>

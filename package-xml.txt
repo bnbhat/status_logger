@@ -1,0 +1,4 @@
+<build_depend>[...]</build_depend>
+<exec_depend>rospy</exec_depend>
+<exec_depend>kopro_msgs</exec_depend>
+<test_depend>rostest</test_depend>
