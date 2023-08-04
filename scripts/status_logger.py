@@ -1,3 +1,11 @@
+#------------------------------------------------------------------------------------------------------------
+# File: scripts/status_logger.py
+# Description: This file contains the status logger. It logs the status msgs from the scheduler.
+# Author: Balachandra Bhat (github.com/bnbhat)
+# Date: 2023-08-03
+# Version: 1.0
+#------------------------------------------------------------------------------------------------------------
+
 import time
 import rospy
 import log_writer

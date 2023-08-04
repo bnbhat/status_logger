@@ -6,6 +6,9 @@ import rostest
 from kopro_msgs.srv import kopro_scheduler_statusLogger_initial
 from kopro_msgs.msg import kopro_scheduler_statusLogger_log
 
+START = 1
+STOP = 0
+
 # Test
 def test():
     logger = StatusLogger()

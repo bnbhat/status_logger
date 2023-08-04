@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------------------------------------
-# File: scripts/command_dict.py
+# File: scripts/log_writer.py
 # Description: This file contains the dictionary of commands and resource types used in the system.
 # Author: Balachandra Bhat (github.com/bnbhat)
 # Date: 2023-08-03
